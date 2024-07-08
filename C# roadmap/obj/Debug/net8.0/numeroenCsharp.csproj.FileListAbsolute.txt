@@ -1,0 +1,14 @@
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\bin\Debug\net8.0\numeroenCsharp.exe
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\bin\Debug\net8.0\numeroenCsharp.deps.json
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\bin\Debug\net8.0\numeroenCsharp.runtimeconfig.json
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\bin\Debug\net8.0\numeroenCsharp.dll
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\bin\Debug\net8.0\numeroenCsharp.pdb
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.AssemblyInfoInputs.cache
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.AssemblyInfo.cs
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.dll
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\refint\numeroenCsharp.dll
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.pdb
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\numeroenCsharp.genruntimeconfig.cache
+C:\Users\ale_c\Desktop\GitHub\C# roadmap\obj\Debug\net8.0\ref\numeroenCsharp.dll
