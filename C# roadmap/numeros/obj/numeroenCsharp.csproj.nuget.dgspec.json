@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\numeros\\numeroenCsharp.csproj": {}
+    "C:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\C-roadmap-1\\C# roadmap\\numeros\\numeroenCsharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\numeros\\numeroenCsharp.csproj": {
+    "C:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\C-roadmap-1\\C# roadmap\\numeros\\numeroenCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\numeros\\numeroenCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\C-roadmap-1\\C# roadmap\\numeros\\numeroenCsharp.csproj",
         "projectName": "numeroenCsharp",
-        "projectPath": "c:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\numeros\\numeroenCsharp.csproj",
+        "projectPath": "C:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\C-roadmap-1\\C# roadmap\\numeros\\numeroenCsharp.csproj",
         "packagesPath": "C:\\Users\\ale_c\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\numeros\\obj\\",
+        "outputPath": "C:\\Users\\ale_c\\Desktop\\GitHub\\C# roadmap\\C-roadmap-1\\C# roadmap\\numeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ale_c\\AppData\\Roaming\\NuGet\\NuGet.Config",
